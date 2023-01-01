@@ -1,0 +1,25 @@
+# 생성되는 파일
+wandb
+__pycache__
+models
+asset
+weight
+lightgcn/run.log
+output
+catboost_info
+tem.ipynb
+
+# GKT 모델 생성 log
+logs
+
+# GKT 내부 파일
+/gkt/data
+/gkt/command.sh
+/gkt/processing_origin.py
+/gkt/processing_ysh.py
+/gkt/data copy
+/gkt/__pycache__
+
+# saint_plus 모델 내부 파일
+/saint_plus/lightning_logs
+/saint_plus/submission
